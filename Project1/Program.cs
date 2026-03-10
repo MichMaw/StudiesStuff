@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
+
+for(int x=0;x<10;x++)
 Console.WriteLine("Hello, World!");
